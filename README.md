@@ -5,7 +5,7 @@ O trabalho, intitulaldo "Avaliação de Modelos de Linguagem de Grande Porte no 
 
 | Pergunta | Stack Overflow | ChatGPT-4 | ChatGPT-4o | Gemini | AWS Q | Análise Comparativa |
 | :--------: | :--------------: | :---------: | :----------: | :------: | :-----: | :-------------------: |
-| [#1](stackoverflow/question-01.md) | [Resposta](stackoverflow/answer-01.md) | [Resposta](llms/answer-01-chatgpt-4.md) | [Resposta](llms/answer-01-chatgpt-4o.md) | [Resposta](llms/answer-01-gemini.md) | [Resposta](llms/answer-01-q.md) | [Análise](analysis/answer-01.md) |
-| [#2](stackoverflow/question-02.md) | [Resposta](stackoverflow/answer-02.md)  | [Resposta](llms/answer-02-chatgpt-4.md) | [Resposta](llms/answer-02-chatgpt-4o.md) | [Resposta](llms/answer-02-gemini.md) | [Resposta](llms/answer-02-q.md) | [Análise](analysis/answer-02.md) | 
+| [#1](questions/01.md) | [Resposta](questions/01.md#highest-scored-answer) | [Resposta](questions/01.md#chat-gpt-4) | [Resposta](questions/01.md#chat-gpt-4o) | [Resposta](questions/01.md#gemini) | [Resposta](questions/01.md#q) | [Análise](questions/01.md#analysis) |
+| [#2](questions/02.md) | [Resposta](questions/02.md#highest-scored-answer) | [Resposta](questions/02.md#chat-gpt-4) | [Resposta](questions/02.md#chat-gpt-4o) | [Resposta](questions/02.md#gemini) | [Resposta](questions/02.md#q) | [Análise](questions/02.md#analysis) |
 | ... | Resposta | Resposta | Resposta | Resposta | Resposta | Análise | 
-| [#30](stackoverflow/question-30.md) | [Resposta](stackoverflow/answer-02.md) | [Resposta](llms/answer-30-chatgpt-4.md) | [Resposta](llms/answer-30-chatgpt-4o.md) | [Resposta](llms/answer-30-gemini.md) | [Resposta](llms/answer-01-q.md) | [Análise](analysis/answer-30.md) | 
+| [#30](questions/30.md) | [Resposta](questions/30.md#highest-scored-answer) | [Resposta](questions/30.md#chat-gpt-4) | [Resposta](questions/30.md#chat-gpt-4o) | [Resposta](questions/30.md#gemini) | [Resposta](questions/30.md#q) | [Análise](questions/30.md#analysis) |
